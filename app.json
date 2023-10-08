@@ -1,8 +1,8 @@
 {
-    "name": "𝑽2𝑹𝑨𝒀 𝑺𝑬𝑹𝑽𝑬𝑹 𝑰𝑵 𝑯𝑬𝑹𝑶𝑲𝑼",
+    "name": "𝑽2𝑹𝑨𝒀(𝙑𝙈𝙀𝙎𝙎) 𝑺𝑬𝑹𝑽𝑬𝑹 𝑰𝑵 𝑯𝑬𝑹𝑶𝑲𝑼",
     "description": "𝔻𝔼ℙ𝕃𝕆𝕐 𝕧2𝕣𝕒𝕪 𝕊𝔼ℝ𝕍𝔼ℝ 𝕀ℕ ℍ𝔼ℝ𝕆𝕂𝕌",
     "logo":"https://telegra.ph/file/4b7fa3a0f900de6727252.jpg",
-    "keywords": ["xray","v2ray"],
+    "keywords": ["xray","v2ray","vmess"],
     "env": {
         "UUID": {
             "description": "𝕧2ray UUID,You can generate new UUID using this website (https://www.uuidgenerator.net) ",
