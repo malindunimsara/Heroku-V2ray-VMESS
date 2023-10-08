@@ -19,7 +19,7 @@ cat << EOF > /etc/xray/config.json
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/my-websocket"
+          "path": "/DARK-DEVIL"
         }
       }
     }
